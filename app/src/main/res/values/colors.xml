@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0088CC</color>
+    <color name="primary_dark">#006699</color>
+    <color name="accent">#54A9EB</color>
+    <color name="background">#0F141C</color>
+    <color name="card_background">#18222D</color>
+    <color name="card_stroke">#243447</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E9BAE</color>
+    <color name="status_active">#2ECC71</color>
+    <color name="status_inactive">#E74C3C</color>
+    <color name="telegram_blue">#2AABEE</color>
+    <color name="log_background">#0D1117</color>
+    <color name="log_text">#7EE787</color>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TG WS Proxy</string>
+    <string name="settings">Настройки</string>
+    <string name="status_title">Статус прокси</string>
+    <string name="status_stopped">Остановлен</string>
+    <string name="status_running">Работает</string>
+    <string name="status_starting">Запуск...</string>
+    <string name="switch_label">Включить прокси</string>
+    <string name="proxy_address_label">Адрес прокси (SOCKS5)</string>
+    <string name="connect_telegram">Подключить в Telegram</string>
+    <string name="copy_address">Копировать адрес</string>
+    <string name="copied">Адрес скопирован в буфер обмена</string>
+    <string name="telegram_not_found">Telegram не найден. Открыта веб-ссылка подключения.</string>
+    <string name="logs_title">Логи процесса</string>
+    <string name="clear_logs">Очистить</string>
+    
+    <!-- Settings strings -->
+    <string name="pref_network_category">Сетевые настройки</string>
+    <string name="pref_port">Порт прокси (SOCKS5)</string>
+    <string name="pref_lan_share">Стриминг в локальную сеть</string>
+    <string name="pref_lan_share_summary">Разрешить другим устройствам в Wi-Fi сети подключаться к прокси (0.0.0.0)</string>
+    <string name="pref_autostart">Автозапуск при загрузке</string>
+    <string name="pref_autostart_summary">Запускать прокси автоматически при старте устройства</string>
+    
+    <string name="pref_cf_category">Cloudflare / WebSocket</string>
+    <string name="pref_cf_proxy">Использовать Cloudflare CDN</string>
+    <string name="pref_cf_proxy_summary">Маршрутизировать WebSocket-трафик через Cloudflare эндпоинты</string>
+    <string name="pref_cf_domains">Кастомные CF домены</string>
+    <string name="pref_cf_domains_summary">Через запятую (оставьте пустым для встроенных доменов)</string>
+    <string name="pref_pool_size">Размер пула соединений</string>
+    <string name="pref_pool_size_summary">Количество пред-открытых WebSocket соединений (по умолчанию 8)</string>
+
+    <string name="pref_auth_category">Авторизация SOCKS5 (опционально)</string>
+    <string name="pref_username">Логин</string>
+    <string name="pref_password">Пароль</string>
+
+    <string name="pref_battery_category">Оптимизация и система</string>
+    <string name="pref_battery_opt">Игнорировать оптимизацию батареи</string>
+    <string name="pref_battery_opt_summary">Предотвратить остановку прокси системой при выключенном экране</string>
+    <string name="save">Сохранить</string>
+</resources>
